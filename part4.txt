@@ -1,0 +1,22 @@
+Name,book_id,rating
+Camilla,2,5
+Arcadia,3,4
+Vipra,4,5
+Carter,28,2
+Carter,29,4
+Tom,24,3
+Camilla,24,3
+Vipra,1,2
+Vipra,5,4
+Vipra,46,4
+Vipra,37,4
+Arcadia,28,4
+Tom,9,3
+Tom,17,4
+Tom,15,4
+Tom,45,1
+Vipra,26,1
+Vipra,35,4
+Bu Sun,20,2
+Bu Sun,35,5
+Bu Sun,42,3
